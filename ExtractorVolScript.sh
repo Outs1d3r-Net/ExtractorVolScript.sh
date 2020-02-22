@@ -123,6 +123,6 @@ elif [ "$1" == '--clean' ];then
 
 else
 	clear
-	echo 'Option not acceptd !'
+	echo 'Option not accepted !'
 	exit 0;
 fi
